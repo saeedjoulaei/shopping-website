@@ -24,10 +24,15 @@ class Card extends Component {
       <div className={styles.container}>
         <img src={image} alt="mobile" />
         <h3>{name}</h3>
-        <p>{cost}</p>
+        <p>
+          {cost}
+          {counter
+            ? ` * ${counter}=${counter * Number(cost.split(" ")[0])} $`
+            : ""}
+        </p>
         <div className={styles.counter}>
           <img
-            className={counter ? "" : styles.deactive}
+            className={!counter && styles.deactive}
             src={down}
             alt="down"
             onClick={this.downHandler}
