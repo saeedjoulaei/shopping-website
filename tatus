@@ -1,0 +1,41 @@
+[33mcommit 7981886a78a0917cdef87fb6f86fa12f030ee526[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: saeed joulaei <saeedjoulaei86@gmail.com>
+Date:   Sun Sep 3 10:14:15 2023 +0330
+
+    images replaced in cards
+
+[33mcommit c207e14a30b18bd97202c8d754ca8834e09c08f7[m
+Author: saeed joulaei <saeedjoulaei86@gmail.com>
+Date:   Sat Sep 2 22:48:12 2023 +0330
+
+    images added to src
+
+[33mcommit 1df4fea1fdaf2998e4d95532c59243a129d5ffd0[m
+Author: saeed joulaei <saeedjoulaei86@gmail.com>
+Date:   Tue Aug 29 19:09:20 2023 +0330
+
+    footer section added
+
+[33mcommit d996783111c97eeb44861aa4cb554d62457caeb5[m
+Author: saeed joulaei <saeedjoulaei86@gmail.com>
+Date:   Tue Aug 29 18:59:07 2023 +0330
+
+    search and logos parts added to project
+
+[33mcommit 02a72474a0aa779d1faa88e01c36afcf4f9d34c7[m
+Author: saeed joulaei <saeedjoulaei86@gmail.com>
+Date:   Tue Aug 29 14:14:54 2023 +0330
+
+    navbar,banner and cards added to project
+
+[33mcommit b5b164d1b2ac0f0993d6ea095225830856af009b[m
+Author: saeed joulaei <saeedjoulaei86@gmail.com>
+Date:   Mon Aug 28 22:30:13 2023 +0330
+
+    preparation
+
+[33mcommit 7d52ece132b09a5d5a59707b07ef2dcaa7de57df[m
+Author: saeed joulaei <saeedjoulaei86@gmail.com>
+Date:   Sun Aug 27 18:25:58 2023 +0330
+
+    Initialize project using Create React App
